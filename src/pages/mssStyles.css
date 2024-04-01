@@ -1,0 +1,22 @@
+.container-mss {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  label {
+    display: block;
+  }
+  
+  .dropdown {
+    cursor: pointer;
+    width: 150px; 
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
